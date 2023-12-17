@@ -1,6 +1,6 @@
 Feature: US1006 faker class'i ile facebook kayit testi
 
-
+  @P1
   Scenario: TC12 fake bilgilerle facebook'a kayit yapilabilmeli
     Given kullanici "faceUrl" anasayfaya gider
     And facebook'da yeni hesap olustur butonuna basar
